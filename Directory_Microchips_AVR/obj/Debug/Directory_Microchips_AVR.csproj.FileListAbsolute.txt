@@ -1,0 +1,74 @@
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Directory_Microchips_AVR.exe.config
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Directory_Microchips_AVR.exe
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Directory_Microchips_AVR.pdb
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csprojAssemblyReference.cache
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.Properties.Resources.resources
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csproj.GenerateResource.cache
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csproj.CoreCompileInputs.cache
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.exe
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.pdb
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Database1.mdb
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Google.Protobuf.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\MySql.Data.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Renci.SshNet.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Buffers.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Memory.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Numerics.Vectors.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Ubiety.Dns.Core.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Zstandard.Net.dll
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Google.Protobuf.pdb
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Google.Protobuf.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Hash.xxHash.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\MySql.Data.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Renci.SshNet.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Buffers.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Memory.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Numerics.Vectors.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csproj.CopyComplete
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.FormMain.resources
+D:\Programing\Directory Microchips AVR\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.FormSave.resources
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Database1.mdb
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Directory_Microchips_AVR.exe.config
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Directory_Microchips_AVR.exe
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Directory_Microchips_AVR.pdb
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\BouncyCastle.Crypto.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Google.Protobuf.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Hash.xxHash.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\MySql.Data.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Renci.SshNet.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Buffers.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Memory.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Numerics.Vectors.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Ubiety.Dns.Core.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Zstandard.Net.dll
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Google.Protobuf.pdb
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Google.Protobuf.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\K4os.Hash.xxHash.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\MySql.Data.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\Renci.SshNet.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Buffers.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Memory.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Numerics.Vectors.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csprojAssemblyReference.cache
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.FormMain.resources
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.FormSave.resources
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.Properties.Resources.resources
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csproj.GenerateResource.cache
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csproj.CoreCompileInputs.cache
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.csproj.CopyComplete
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.exe
+D:\Programing\Directory_Microchips_AVR\Directory_Microchips_AVR\obj\Debug\Directory_Microchips_AVR.pdb
